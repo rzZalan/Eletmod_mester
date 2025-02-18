@@ -16,7 +16,8 @@
 ## Oldal hoz kapcsolod információk
 
 ### oldal neve: Életmód Mester
-### oldalak témája: Főoldal Blog Szolgáltatások magamrol 
+### oldalak témája: Főoldal Blog Szolgáltatások rólam receptek bejelenkezés 
+### használt oldalak: pixabay Chatgpt github w3school getboostrap 
 
 
 
