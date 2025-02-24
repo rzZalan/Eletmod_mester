@@ -10,6 +10,8 @@
 ### képek ikonok keresése: Duszka Zoltán 
 ### figma elkészitése: Rácz Zalán
 ### oldal fejlesztése: Duszka Zoltán Rácz Zalán Szokol Patrik
+### trello elkészült: 2025.02.19
+### figma elkészült: ---
 
 
 
@@ -17,7 +19,14 @@
 
 ### oldal neve: Életmód Mester
 ### oldalak témája: Főoldal Blog Szolgáltatások rólam receptek bejelenkezés 
-### használt oldalak: pixabay Chatgpt github w3school getboostrap 
+### használt oldalak: pixabay Chatgpt github w3school getboostrap pinterest
+
+
+
+
+
+
+
 
 
 
