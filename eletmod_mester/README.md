@@ -22,12 +22,3 @@
 ### használt oldalak: pixabay Chatgpt github w3school getboostrap pinterest
 
 
-
-
-
-
-
-
-
-
-
