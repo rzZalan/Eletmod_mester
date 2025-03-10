@@ -11,8 +11,8 @@
 ### figma elkészitése: Rácz Zalán
 ### oldal fejlesztése: Duszka Zoltán Rácz Zalán Szokol Patrik
 ### trello elkészült: 2025.02.19
-### figma elkészült: ---
-
+### figma elkészült: 2025.03.09
+### programozás elkészült: tegnap (2025.03.10 9óra 25perc-kor)
 
 
 ## Oldal hoz kapcsolod információk
